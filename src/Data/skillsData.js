@@ -1,31 +1,26 @@
 export default [
   {
-    setsName: "Tools",
+    setsName: "Languages",
     skillSet: [
       {
         id: 1,
-        name: "GitHub",
-        icon: "https://cdn-icons-png.flaticon.com/512/25/25231.png",
+        name: "C",
+        icon: "https://img.icons8.com/?size=512&id=40670&format=png",
       },
       {
         id: 3,
-        name: "Netlify",
-        icon: "https://cdn.iconscout.com/icon/free/png-256/netlify-3628945-3030170.png",
+        name: "C++",
+        icon: "https://img.icons8.com/?size=512&id=40669&format=png",
       },
       {
         id: 4,
-        name: "Vercel",
-        icon: "https://www.svgrepo.com/show/327408/logo-vercel.svg",
-      },
-      {
-        id: 6,
-        name: "VS Code ",
-        icon: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png",
+        name: "JavaScript",
+        icon: "https://img.icons8.com/?size=512&id=108784&format=png",
       },
     ],
   },
     {
-      setsName: "Frontend",
+      setsName: "Frontend Skills",
       skillSet: [
         {
           id: 1,
@@ -60,7 +55,7 @@ export default [
       ],
     },
     {
-      setsName: "Backend",
+      setsName: "Backend Development",
       skillSet: [
         {
           id: 1,
@@ -85,7 +80,7 @@ export default [
       ],
     },
     {
-      setsName: "Database",
+      setsName: "DataBase",
       skillSet: [
         {
           id: 1,
