@@ -12,17 +12,17 @@ const AboutMe = () => {
     <div className="flex flex-row gap-2 items-center justify-center mt-6">
           <Link
           to="/"
-          className="inline-block  px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-500 hover:bg-cyan-600 md:text-md "
+          className="inline-block  px-4 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-500 hover:bg-cyan-600 md:text-md "
         >
           Home
         </Link>
         <Link to="/projects"
-          className="inline-block  px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-500 hover:bg-cyan-600 md:text-md "
+          className="inline-block  px-4 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-500 hover:bg-cyan-600 md:text-md "
         >
           Pojects
         </Link>
         <Link to="/contact"
-          className="inline-block  px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-500 hover:bg-cyan-600 md:text-md "
+          className="inline-block  px-4 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-500 hover:bg-cyan-600 md:text-md "
         >
           Contact
         </Link>

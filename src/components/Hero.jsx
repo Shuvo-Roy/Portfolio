@@ -17,19 +17,19 @@ const Hero = () => {
         <div className="flex flex-row gap-2">
           <Link
             to="/projects"
-            className="inline-block  px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-600 hover:bg-cyan-600 md:text-md "
+            className="inline-block  px-4 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-600 hover:bg-cyan-600 md:text-md "
           >
             Projects
           </Link>
           <Link
             to="/about"
-            className="inline-block  px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-600 hover:bg-cyan-600 md:text-md "
+            className="inline-block  px-4 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-600 hover:bg-cyan-600 md:text-md "
           >
             About Me
           </Link>
           <Link
             to="/contact"
-            className="inline-block  px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-600 hover:bg-cyan-600 md:text-md "
+            className="inline-block  px-4 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-600 hover:bg-cyan-600 md:text-md "
           >
             Contact
           </Link>

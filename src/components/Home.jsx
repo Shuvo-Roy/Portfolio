@@ -4,7 +4,7 @@ import Services from './Services'
 
 const Home = () => {
   return (
-    <div className='h-screen'>
+    <div className='lg:h-screen'>
         <Hero/>
         <Services/>
     </div>

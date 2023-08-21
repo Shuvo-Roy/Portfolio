@@ -6,23 +6,23 @@ import projectData from "../Data/projectData";
 
 const Projects = () => {
   return (
-    <div className="py-12">
+    <div className="py-12 h-screen">
       <div className="flex flex-row gap-2 items-center justify-center mb-8">
         <Link
           to="/"
-          className="inline-block  px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-500 hover:bg-cyan-600 md:text-md "
+          className="inline-block  px-4 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-500 hover:bg-cyan-600 md:text-md "
         >
           Home
         </Link>
         <Link
           to="/about"
-          className="inline-block  px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-500 hover:bg-cyan-600 md:text-md "
+          className="inline-block  px-4 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-500 hover:bg-cyan-600 md:text-md "
         >
           About Me
         </Link>
         <Link
           to="/about"
-          className="inline-block  px-8 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-500 hover:bg-cyan-600 md:text-md "
+          className="inline-block  px-4 py-3 border border-transparent text-base font-medium rounded-md text-white bg-cyan-500 hover:bg-cyan-600 md:text-md "
         >
           Contact
         </Link>
